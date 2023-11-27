@@ -25,6 +25,8 @@ cd backend
 npm install
 ```
 
+3. **Add your OPENAI API Key in backend/index.js**
+
 ## Execution
 
 ## Frontend (Next.js)
