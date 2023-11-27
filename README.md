@@ -25,7 +25,7 @@ cd backend
 npm install
 ```
 
-3. **Execution**
+## Execution
 
 ## Frontend (Next.js)
 
@@ -43,10 +43,10 @@ npm start
 ```
 Access the backend at http://localhost:8000.
 
-4. **Usage**
+## Usage
 Open your web browser and navigate to http://localhost:3000 to use the chatbot application.
 
-5. **Additional Information**
+## Additional Information
 Frontend: Next.js (React framework)
 Backend: Node.js with Express
 Communication: API calls between frontend and backend
