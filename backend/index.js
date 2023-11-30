@@ -9,7 +9,7 @@ const PdfParse = require("pdf-parse");
 const { isArray } = require("lodash");
 
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: "My API Key",
 });
 
 const app = express();
